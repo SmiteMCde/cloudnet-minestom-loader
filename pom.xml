@@ -83,7 +83,7 @@
         <dependency>
             <groupId>eu.cloudnetservice.cloudnet</groupId>
             <artifactId>signs-impl</artifactId>
-            <version>4.0.0-RC16</version>
+            <version>4.0.0-RC17-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
